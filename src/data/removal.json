@@ -1,0 +1,34 @@
+{
+  "targets": { "acknowledgeHours": 24, "decisionDays": 7 },
+  "types": [
+    {
+      "id": "depicted",
+      "kind": "removal",
+      "label": "I appear in this video and want it removed",
+      "urgent": false,
+      "needs": "We may ask you to confirm your identity by replying from the email you give. Include the title or link and the point in the video where you appear."
+    },
+    {
+      "id": "copyright",
+      "kind": "copyright",
+      "label": "Copyright complaint",
+      "urgent": false,
+      "needs": "Say which work is yours, where it appears, and how you own it. Include a link to the original."
+    },
+    {
+      "id": "illegal",
+      "kind": "abuse",
+      "label": "Illegal or abusive content",
+      "urgent": true,
+      "needs": "Describe what you saw and where. Do not forward, copy or download the content."
+    }
+  ],
+  "steps": [
+    { "title": "Submit", "body": "Choose the reason and describe what you saw. You get a reference number straight away." },
+    { "title": "Acknowledge", "body": "We confirm the request is in the queue." },
+    { "title": "Hold", "body": "A reviewer can hide the video while the request is checked. Hidden videos are kept on record, not deleted." },
+    { "title": "Decide", "body": "A reviewer removes, restricts or keeps the video, and writes down why." },
+    { "title": "Tell you", "body": "We email the outcome and the reason to the address you gave, with how to appeal." },
+    { "title": "Record", "body": "The request, the decision and the dates stay in the audit log." }
+  ]
+}

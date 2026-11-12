@@ -122,3 +122,25 @@ Check
 ## Windows: start and deploy
 
 Double-click `deploy.bat` in the project folder. The menu covers install, dev server, production build and start, stopping port 3000, and commit and push to GitHub. Needs Node.js 20 LTS (or newer) and Git.
+
+## Content deletion requests
+
+Page: `/content-removal`. Steps, targets and request types are in `src/data/removal.json`. Change the targets there, not in the page.
+
+Process, as built:
+
+1. Submit: the requester picks a reason and gets a reference number. No account needed.
+2. Acknowledge: the request goes into the admin moderation queue (`/admin`, Moderation tab) with its reference.
+3. Hold: a reviewer can hide the video from the queue while the request is checked. Nothing is deleted.
+4. Decide: remove, restrict or keep, with the reason written in the notes field.
+5. Tell the requester: email the outcome and how to appeal. Email sending is not connected yet in this build.
+6. Record: the queue keeps the request, decision and dates. Export with Export CSV.
+
+Before launch, confirm:
+
+- The `acknowledgeHours` and `decisionDays` targets.
+- That child-safety reports go to the right authority in each country the site serves (the page names the NCMEC CyberTipline for the US).
+- That the email to requesters and the appeal route are written and connected.
+- Who on staff can hold and remove videos, and that each action is logged with a name and time.
+
+Not built yet: a way for requesters to check their reference number's status, and automatic emails.
