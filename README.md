@@ -118,3 +118,7 @@ Check
 - Turn push alerts off in /account/controls, then trigger a return send: the console shows no push.
 - Open /week after watching a few videos: the top categories and suggested watches are filled.
 - Open /admin/growth after signing in at /admin: every revenue stream from phases 4 to 9 shows a value.
+
+## Windows: start and deploy
+
+Double-click `deploy.bat` in the project folder. The menu covers install, dev server, production build and start, stopping port 3000, and commit and push to GitHub. Needs Node.js 20 LTS (or newer) and Git.
