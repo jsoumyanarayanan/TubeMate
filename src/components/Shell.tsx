@@ -21,6 +21,12 @@ export function Sidebar() {
           </Link>
         ))}
       </nav>
+      <h2 className="px-2 pb-2 pt-4 text-xs font-semibold uppercase tracking-wide text-muted">Help</h2>
+      <nav aria-label="Help" className="grid">
+        <Link href="/content-removal" className="rounded px-2 py-2 text-sm text-muted hover:bg-surface hover:text-fg">
+          Content removal
+        </Link>
+      </nav>
       <AdSlot id="sidebar" className="mt-4" />
     </aside>
   )
