@@ -39,6 +39,8 @@ const legal = [
   ['Redeem', '/redeem'],
   ['2257 Statement', '/2257'],
   ['Content Removal', '/content-removal'],
+  ['Your week', '/week'],
+  ['Account controls', '/account/controls'],
   ['Parental Controls', '/parental-controls'],
   ['Contact', '/contact'],
 ] as const
