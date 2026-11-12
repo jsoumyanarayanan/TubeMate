@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "category-01",
+    "name": "Category 01"
+  },
+  {
+    "slug": "category-02",
+    "name": "Category 02"
+  },
+  {
+    "slug": "category-03",
+    "name": "Category 03"
+  },
+  {
+    "slug": "category-04",
+    "name": "Category 04"
+  },
+  {
+    "slug": "category-05",
+    "name": "Category 05"
+  },
+  {
+    "slug": "category-06",
+    "name": "Category 06"
+  },
+  {
+    "slug": "category-07",
+    "name": "Category 07"
+  },
+  {
+    "slug": "category-08",
+    "name": "Category 08"
+  },
+  {
+    "slug": "category-09",
+    "name": "Category 09"
+  },
+  {
+    "slug": "category-10",
+    "name": "Category 10"
+  },
+  {
+    "slug": "category-11",
+    "name": "Category 11"
+  },
+  {
+    "slug": "category-12",
+    "name": "Category 12"
+  }
+]

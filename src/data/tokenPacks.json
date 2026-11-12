@@ -1,0 +1,7 @@
+[
+  { "id": "t100", "tokens": 100, "bonus": 0, "priceUsd": 4.99 },
+  { "id": "t250", "tokens": 250, "bonus": 15, "priceUsd": 9.99 },
+  { "id": "t600", "tokens": 600, "bonus": 60, "priceUsd": 19.99 },
+  { "id": "t1600", "tokens": 1600, "bonus": 240, "priceUsd": 49.99 },
+  { "id": "t3500", "tokens": 3500, "bonus": 700, "priceUsd": 99.99 }
+]

@@ -1,0 +1,359 @@
+[
+ {
+  "id": "p01",
+  "slug": "performer-01",
+  "name": "Performer 01",
+  "avatar": "/placeholder/avatar.svg",
+  "followers": 1820,
+  "videoCount": 5,
+  "isVerified": true,
+  "recordsOnFile": true,
+  "recordRef": "REC-1000",
+  "callsEnabled": true,
+  "audioRatePerMin": 10,
+  "videoRatePerMin": 25,
+  "status": "online",
+  "languages": [
+   "English"
+  ],
+  "rating": 4.9,
+  "callCount": 40,
+  "slots": [
+   "2026-12-01 18:00",
+   "2026-12-01 20:00",
+   "2026-12-01 22:00",
+   "2026-12-02 18:00",
+   "2026-12-02 20:00",
+   "2026-12-02 22:00"
+  ],
+  "fanClubPrice": 150
+ },
+ {
+  "id": "p02",
+  "slug": "performer-02",
+  "name": "Performer 02",
+  "avatar": "/placeholder/avatar.svg",
+  "followers": 3320,
+  "videoCount": 5,
+  "isVerified": true,
+  "recordsOnFile": true,
+  "recordRef": "REC-1001",
+  "callsEnabled": true,
+  "audioRatePerMin": 15,
+  "videoRatePerMin": 35,
+  "status": "online",
+  "languages": [
+   "English",
+   "Spanish"
+  ],
+  "rating": 4.7,
+  "callCount": 57,
+  "slots": [
+   "2026-12-01 18:00",
+   "2026-12-01 20:00",
+   "2026-12-01 22:00",
+   "2026-12-02 18:00",
+   "2026-12-02 20:00",
+   "2026-12-02 22:00"
+  ],
+  "fanClubPrice": 200
+ },
+ {
+  "id": "p03",
+  "slug": "performer-03",
+  "name": "Performer 03",
+  "avatar": "/placeholder/avatar.svg",
+  "followers": 4820,
+  "videoCount": 5,
+  "isVerified": true,
+  "recordsOnFile": true,
+  "recordRef": "REC-1002",
+  "callsEnabled": true,
+  "audioRatePerMin": 20,
+  "videoRatePerMin": 45,
+  "status": "busy",
+  "languages": [
+   "English",
+   "German"
+  ],
+  "rating": 4.5,
+  "callCount": 74,
+  "slots": [
+   "2026-12-01 18:00",
+   "2026-12-01 20:00",
+   "2026-12-01 22:00",
+   "2026-12-02 18:00",
+   "2026-12-02 20:00",
+   "2026-12-02 22:00"
+  ],
+  "fanClubPrice": 250
+ },
+ {
+  "id": "p04",
+  "slug": "performer-04",
+  "name": "Performer 04",
+  "avatar": "/placeholder/avatar.svg",
+  "followers": 6320,
+  "videoCount": 5,
+  "isVerified": true,
+  "recordsOnFile": true,
+  "recordRef": "REC-1003",
+  "callsEnabled": false,
+  "audioRatePerMin": 25,
+  "videoRatePerMin": 55,
+  "status": "offline",
+  "languages": [
+   "English",
+   "French"
+  ],
+  "rating": 4.3,
+  "callCount": 91,
+  "slots": [
+   "2026-12-01 18:00",
+   "2026-12-01 20:00",
+   "2026-12-01 22:00",
+   "2026-12-02 18:00",
+   "2026-12-02 20:00",
+   "2026-12-02 22:00"
+  ],
+  "fanClubPrice": 150
+ },
+ {
+  "id": "p05",
+  "slug": "performer-05",
+  "name": "Performer 05",
+  "avatar": "/placeholder/avatar.svg",
+  "followers": 7820,
+  "videoCount": 5,
+  "isVerified": true,
+  "recordsOnFile": true,
+  "recordRef": "REC-1004",
+  "callsEnabled": true,
+  "audioRatePerMin": 10,
+  "videoRatePerMin": 25,
+  "status": "online",
+  "languages": [
+   "English"
+  ],
+  "rating": 4.1,
+  "callCount": 108,
+  "slots": [
+   "2026-12-01 18:00",
+   "2026-12-01 20:00",
+   "2026-12-01 22:00",
+   "2026-12-02 18:00",
+   "2026-12-02 20:00",
+   "2026-12-02 22:00"
+  ],
+  "fanClubPrice": 200
+ },
+ {
+  "id": "p06",
+  "slug": "performer-06",
+  "name": "Performer 06",
+  "avatar": "/placeholder/avatar.svg",
+  "followers": 9320,
+  "videoCount": 5,
+  "isVerified": true,
+  "recordsOnFile": true,
+  "recordRef": "REC-1005",
+  "callsEnabled": true,
+  "audioRatePerMin": 15,
+  "videoRatePerMin": 35,
+  "status": "online",
+  "languages": [
+   "English",
+   "Spanish"
+  ],
+  "rating": 4.9,
+  "callCount": 125,
+  "slots": [
+   "2026-12-01 18:00",
+   "2026-12-01 20:00",
+   "2026-12-01 22:00",
+   "2026-12-02 18:00",
+   "2026-12-02 20:00",
+   "2026-12-02 22:00"
+  ],
+  "fanClubPrice": 250
+ },
+ {
+  "id": "p07",
+  "slug": "performer-07",
+  "name": "Performer 07",
+  "avatar": "/placeholder/avatar.svg",
+  "followers": 10820,
+  "videoCount": 5,
+  "isVerified": true,
+  "recordsOnFile": true,
+  "recordRef": "REC-1006",
+  "callsEnabled": true,
+  "audioRatePerMin": 20,
+  "videoRatePerMin": 45,
+  "status": "busy",
+  "languages": [
+   "English",
+   "German"
+  ],
+  "rating": 4.7,
+  "callCount": 142,
+  "slots": [
+   "2026-12-01 18:00",
+   "2026-12-01 20:00",
+   "2026-12-01 22:00",
+   "2026-12-02 18:00",
+   "2026-12-02 20:00",
+   "2026-12-02 22:00"
+  ],
+  "fanClubPrice": 150
+ },
+ {
+  "id": "p08",
+  "slug": "performer-08",
+  "name": "Performer 08",
+  "avatar": "/placeholder/avatar.svg",
+  "followers": 12320,
+  "videoCount": 5,
+  "isVerified": true,
+  "recordsOnFile": true,
+  "recordRef": "REC-1007",
+  "callsEnabled": false,
+  "audioRatePerMin": 25,
+  "videoRatePerMin": 55,
+  "status": "offline",
+  "languages": [
+   "English",
+   "French"
+  ],
+  "rating": 4.5,
+  "callCount": 159,
+  "slots": [
+   "2026-12-01 18:00",
+   "2026-12-01 20:00",
+   "2026-12-01 22:00",
+   "2026-12-02 18:00",
+   "2026-12-02 20:00",
+   "2026-12-02 22:00"
+  ],
+  "fanClubPrice": 200
+ },
+ {
+  "id": "p09",
+  "slug": "performer-09",
+  "name": "Performer 09",
+  "avatar": "/placeholder/avatar.svg",
+  "followers": 13820,
+  "videoCount": 5,
+  "isVerified": true,
+  "recordsOnFile": true,
+  "recordRef": "REC-1008",
+  "callsEnabled": true,
+  "audioRatePerMin": 10,
+  "videoRatePerMin": 25,
+  "status": "online",
+  "languages": [
+   "English"
+  ],
+  "rating": 4.3,
+  "callCount": 176,
+  "slots": [
+   "2026-12-01 18:00",
+   "2026-12-01 20:00",
+   "2026-12-01 22:00",
+   "2026-12-02 18:00",
+   "2026-12-02 20:00",
+   "2026-12-02 22:00"
+  ],
+  "fanClubPrice": 250
+ },
+ {
+  "id": "p10",
+  "slug": "performer-10",
+  "name": "Performer 10",
+  "avatar": "/placeholder/avatar.svg",
+  "followers": 15320,
+  "videoCount": 5,
+  "isVerified": true,
+  "recordsOnFile": true,
+  "recordRef": "REC-1009",
+  "callsEnabled": true,
+  "audioRatePerMin": 15,
+  "videoRatePerMin": 35,
+  "status": "online",
+  "languages": [
+   "English",
+   "Spanish"
+  ],
+  "rating": 4.1,
+  "callCount": 193,
+  "slots": [
+   "2026-12-01 18:00",
+   "2026-12-01 20:00",
+   "2026-12-01 22:00",
+   "2026-12-02 18:00",
+   "2026-12-02 20:00",
+   "2026-12-02 22:00"
+  ],
+  "fanClubPrice": 150
+ },
+ {
+  "id": "p11",
+  "slug": "performer-11",
+  "name": "Performer 11",
+  "avatar": "/placeholder/avatar.svg",
+  "followers": 16820,
+  "videoCount": 5,
+  "isVerified": true,
+  "recordsOnFile": true,
+  "recordRef": "REC-1010",
+  "callsEnabled": true,
+  "audioRatePerMin": 20,
+  "videoRatePerMin": 45,
+  "status": "busy",
+  "languages": [
+   "English",
+   "German"
+  ],
+  "rating": 4.9,
+  "callCount": 210,
+  "slots": [
+   "2026-12-01 18:00",
+   "2026-12-01 20:00",
+   "2026-12-01 22:00",
+   "2026-12-02 18:00",
+   "2026-12-02 20:00",
+   "2026-12-02 22:00"
+  ],
+  "fanClubPrice": 200
+ },
+ {
+  "id": "p12",
+  "slug": "performer-12",
+  "name": "Performer 12",
+  "avatar": "/placeholder/avatar.svg",
+  "followers": 18320,
+  "videoCount": 5,
+  "isVerified": true,
+  "recordsOnFile": true,
+  "recordRef": "REC-1011",
+  "callsEnabled": false,
+  "audioRatePerMin": 25,
+  "videoRatePerMin": 55,
+  "status": "offline",
+  "languages": [
+   "English",
+   "French"
+  ],
+  "rating": 4.7,
+  "callCount": 227,
+  "slots": [
+   "2026-12-01 18:00",
+   "2026-12-01 20:00",
+   "2026-12-01 22:00",
+   "2026-12-02 18:00",
+   "2026-12-02 20:00",
+   "2026-12-02 22:00"
+  ],
+  "fanClubPrice": 250
+ }
+]

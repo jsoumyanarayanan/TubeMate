@@ -1,0 +1,114 @@
+[
+ {
+  "id": "c01",
+  "slug": "character-01",
+  "name": "Character 01",
+  "age": 22,
+  "avatar": "/placeholder/avatar.svg",
+  "tagline": "Demo tagline 01",
+  "personality": [
+   "Calm",
+   "Bold"
+  ],
+  "voice": "Voice 2",
+  "isPremium": false
+ },
+ {
+  "id": "c02",
+  "slug": "character-02",
+  "name": "Character 02",
+  "age": 23,
+  "avatar": "/placeholder/avatar.svg",
+  "tagline": "Demo tagline 02",
+  "personality": [
+   "Witty",
+   "Curious"
+  ],
+  "voice": "Voice 3",
+  "isPremium": false
+ },
+ {
+  "id": "c03",
+  "slug": "character-03",
+  "name": "Character 03",
+  "age": 24,
+  "avatar": "/placeholder/avatar.svg",
+  "tagline": "Demo tagline 03",
+  "personality": [
+   "Caring",
+   "Dreamy"
+  ],
+  "voice": "Voice 4",
+  "isPremium": false
+ },
+ {
+  "id": "c04",
+  "slug": "character-04",
+  "name": "Character 04",
+  "age": 25,
+  "avatar": "/placeholder/avatar.svg",
+  "tagline": "Demo tagline 04",
+  "personality": [
+   "Bold",
+   "Confident"
+  ],
+  "voice": "Voice 1",
+  "isPremium": true
+ },
+ {
+  "id": "c05",
+  "slug": "character-05",
+  "name": "Character 05",
+  "age": 26,
+  "avatar": "/placeholder/avatar.svg",
+  "tagline": "Demo tagline 05",
+  "personality": [
+   "Curious",
+   "Playful"
+  ],
+  "voice": "Voice 2",
+  "isPremium": false
+ },
+ {
+  "id": "c06",
+  "slug": "character-06",
+  "name": "Character 06",
+  "age": 27,
+  "avatar": "/placeholder/avatar.svg",
+  "tagline": "Demo tagline 06",
+  "personality": [
+   "Dreamy",
+   "Calm"
+  ],
+  "voice": "Voice 3",
+  "isPremium": false
+ },
+ {
+  "id": "c07",
+  "slug": "character-07",
+  "name": "Character 07",
+  "age": 28,
+  "avatar": "/placeholder/avatar.svg",
+  "tagline": "Demo tagline 07",
+  "personality": [
+   "Confident",
+   "Witty"
+  ],
+  "voice": "Voice 4",
+  "isPremium": false
+ },
+ {
+  "id": "c08",
+  "slug": "character-08",
+  "name": "Character 08",
+  "age": 29,
+  "avatar": "/placeholder/avatar.svg",
+  "tagline": "Demo tagline 08",
+  "personality": [
+   "Playful",
+   "Caring"
+  ],
+  "voice": "Voice 1",
+  "isPremium": true
+ }
+]

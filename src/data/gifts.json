@@ -1,0 +1,32 @@
+[
+ {
+  "id": "g1",
+  "icon": "🌹",
+  "name": "Rose",
+  "tokens": 5
+ },
+ {
+  "id": "g2",
+  "icon": "🎈",
+  "name": "Balloon",
+  "tokens": 10
+ },
+ {
+  "id": "g3",
+  "icon": "⭐",
+  "name": "Star",
+  "tokens": 25
+ },
+ {
+  "id": "g4",
+  "icon": "💎",
+  "name": "Gem",
+  "tokens": 100
+ },
+ {
+  "id": "g5",
+  "icon": "👑",
+  "name": "Crown",
+  "tokens": 500
+ }
+]

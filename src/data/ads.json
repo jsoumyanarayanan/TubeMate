@@ -1,0 +1,14 @@
+[
+  { "id": "header", "size": "728x90", "page": "all", "enabled": true },
+  { "id": "sidebar", "size": "300x250", "page": "browse, watch", "enabled": true },
+  { "id": "native", "size": "card", "page": "grids", "enabled": true, "every": 8 },
+  { "id": "under-player", "size": "728x90", "page": "watch", "enabled": true },
+  { "id": "preroll", "size": "video", "page": "watch", "enabled": true, "skipAfterSec": 5 },
+  { "id": "midroll", "size": "video", "page": "watch", "enabled": true },
+  { "id": "sticky-mobile", "size": "320x50", "page": "all (phones)", "enabled": true },
+  { "id": "interstitial", "size": "full", "page": "between pages", "enabled": true, "frequencyCapMin": 10 },
+  { "id": "footer", "size": "728x90", "page": "all", "enabled": true },
+  { "id": "popunder", "size": "window", "page": "all", "enabled": false },
+  { "id": "sponsored-search", "size": "card", "page": "search", "enabled": true },
+  { "id": "partner-offers", "size": "row", "page": "home", "enabled": true }
+]

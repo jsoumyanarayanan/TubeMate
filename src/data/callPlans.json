@@ -1,0 +1,17 @@
+[
+ {
+  "id": "m30",
+  "minutes": 30,
+  "priceUsd": 24.99
+ },
+ {
+  "id": "m60",
+  "minutes": 60,
+  "priceUsd": 44.99
+ },
+ {
+  "id": "m120",
+  "minutes": 120,
+  "priceUsd": 79.99
+ }
+]

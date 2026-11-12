@@ -1,0 +1,23 @@
+[
+ {
+  "id": "b1",
+  "name": "Demo bundle 01",
+  "videoIds": [
+   "v004",
+   "v016",
+   "v028"
+  ],
+  "tokens": 110
+ },
+ {
+  "id": "b2",
+  "name": "Demo bundle 02",
+  "videoIds": [
+   "v040",
+   "v052",
+   "v005",
+   "v011"
+  ],
+  "tokens": 140
+ }
+]

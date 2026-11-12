@@ -1,0 +1,434 @@
+[
+ {
+  "id": "r01",
+  "slug": "demo-room-01",
+  "performerId": "p01",
+  "title": "Demo room 01",
+  "isLive": true,
+  "viewers": 157,
+  "language": "English",
+  "isNew": false,
+  "tags": [
+   "music",
+   "popular"
+  ],
+  "tipGoal": {
+   "label": "Demo goal",
+   "target": 1000,
+   "current": 90
+  },
+  "tipMenu": [
+   {
+    "label": "Say hello",
+    "tokens": 10
+   },
+   {
+    "label": "Song request",
+    "tokens": 50
+   },
+   {
+    "label": "Shout-out",
+    "tokens": 100
+   }
+  ],
+  "privateRatePerMin": 40,
+  "spyRatePerMin": 10,
+  "fanClubPrice": 150
+ },
+ {
+  "id": "r02",
+  "slug": "demo-room-02",
+  "performerId": "p02",
+  "title": "Demo room 02",
+  "isLive": true,
+  "viewers": 294,
+  "language": "Spanish",
+  "isNew": false,
+  "tags": [
+   "new",
+   "late"
+  ],
+  "tipGoal": {
+   "label": "Demo goal",
+   "target": 1000,
+   "current": 180
+  },
+  "tipMenu": [
+   {
+    "label": "Say hello",
+    "tokens": 10
+   },
+   {
+    "label": "Song request",
+    "tokens": 50
+   },
+   {
+    "label": "Shout-out",
+    "tokens": 100
+   }
+  ],
+  "privateRatePerMin": 50,
+  "spyRatePerMin": 10,
+  "fanClubPrice": 200
+ },
+ {
+  "id": "r03",
+  "slug": "demo-room-03",
+  "performerId": "p03",
+  "title": "Demo room 03",
+  "isLive": true,
+  "viewers": 431,
+  "language": "German",
+  "isNew": false,
+  "tags": [
+   "popular",
+   "weekend"
+  ],
+  "tipGoal": {
+   "label": "Demo goal",
+   "target": 1000,
+   "current": 270
+  },
+  "tipMenu": [
+   {
+    "label": "Say hello",
+    "tokens": 10
+   },
+   {
+    "label": "Song request",
+    "tokens": 50
+   },
+   {
+    "label": "Shout-out",
+    "tokens": 100
+   }
+  ],
+  "privateRatePerMin": 30,
+  "spyRatePerMin": 10,
+  "fanClubPrice": 250
+ },
+ {
+  "id": "r04",
+  "slug": "demo-room-04",
+  "performerId": "p04",
+  "title": "Demo room 04",
+  "isLive": false,
+  "viewers": 568,
+  "language": "French",
+  "isNew": false,
+  "tags": [
+   "late",
+   "chat"
+  ],
+  "tipGoal": {
+   "label": "Demo goal",
+   "target": 1000,
+   "current": 360
+  },
+  "tipMenu": [
+   {
+    "label": "Say hello",
+    "tokens": 10
+   },
+   {
+    "label": "Song request",
+    "tokens": 50
+   },
+   {
+    "label": "Shout-out",
+    "tokens": 100
+   }
+  ],
+  "privateRatePerMin": 40,
+  "spyRatePerMin": 10,
+  "fanClubPrice": 150
+ },
+ {
+  "id": "r05",
+  "slug": "demo-room-05",
+  "performerId": "p05",
+  "title": "Demo room 05",
+  "isLive": true,
+  "viewers": 705,
+  "language": "English",
+  "isNew": true,
+  "tags": [
+   "weekend",
+   "music"
+  ],
+  "tipGoal": {
+   "label": "Demo goal",
+   "target": 1000,
+   "current": 450
+  },
+  "tipMenu": [
+   {
+    "label": "Say hello",
+    "tokens": 10
+   },
+   {
+    "label": "Song request",
+    "tokens": 50
+   },
+   {
+    "label": "Shout-out",
+    "tokens": 100
+   }
+  ],
+  "privateRatePerMin": 50,
+  "spyRatePerMin": 10,
+  "fanClubPrice": 200
+ },
+ {
+  "id": "r06",
+  "slug": "demo-room-06",
+  "performerId": "p06",
+  "title": "Demo room 06",
+  "isLive": true,
+  "viewers": 842,
+  "language": "Spanish",
+  "isNew": false,
+  "tags": [
+   "chat",
+   "new"
+  ],
+  "tipGoal": {
+   "label": "Demo goal",
+   "target": 1000,
+   "current": 540
+  },
+  "tipMenu": [
+   {
+    "label": "Say hello",
+    "tokens": 10
+   },
+   {
+    "label": "Song request",
+    "tokens": 50
+   },
+   {
+    "label": "Shout-out",
+    "tokens": 100
+   }
+  ],
+  "privateRatePerMin": 30,
+  "spyRatePerMin": 10,
+  "fanClubPrice": 250
+ },
+ {
+  "id": "r07",
+  "slug": "demo-room-07",
+  "performerId": "p07",
+  "title": "Demo room 07",
+  "isLive": true,
+  "viewers": 79,
+  "language": "German",
+  "isNew": false,
+  "tags": [
+   "music",
+   "popular"
+  ],
+  "tipGoal": {
+   "label": "Demo goal",
+   "target": 1000,
+   "current": 630
+  },
+  "tipMenu": [
+   {
+    "label": "Say hello",
+    "tokens": 10
+   },
+   {
+    "label": "Song request",
+    "tokens": 50
+   },
+   {
+    "label": "Shout-out",
+    "tokens": 100
+   }
+  ],
+  "privateRatePerMin": 40,
+  "spyRatePerMin": 10,
+  "fanClubPrice": 150
+ },
+ {
+  "id": "r08",
+  "slug": "demo-room-08",
+  "performerId": "p08",
+  "title": "Demo room 08",
+  "isLive": false,
+  "viewers": 216,
+  "language": "French",
+  "isNew": false,
+  "tags": [
+   "new",
+   "late"
+  ],
+  "tipGoal": {
+   "label": "Demo goal",
+   "target": 1000,
+   "current": 720
+  },
+  "tipMenu": [
+   {
+    "label": "Say hello",
+    "tokens": 10
+   },
+   {
+    "label": "Song request",
+    "tokens": 50
+   },
+   {
+    "label": "Shout-out",
+    "tokens": 100
+   }
+  ],
+  "privateRatePerMin": 50,
+  "spyRatePerMin": 10,
+  "fanClubPrice": 200
+ },
+ {
+  "id": "r09",
+  "slug": "demo-room-09",
+  "performerId": "p09",
+  "title": "Demo room 09",
+  "isLive": true,
+  "viewers": 353,
+  "language": "English",
+  "isNew": false,
+  "tags": [
+   "popular",
+   "weekend"
+  ],
+  "tipGoal": {
+   "label": "Demo goal",
+   "target": 1000,
+   "current": 10
+  },
+  "tipMenu": [
+   {
+    "label": "Say hello",
+    "tokens": 10
+   },
+   {
+    "label": "Song request",
+    "tokens": 50
+   },
+   {
+    "label": "Shout-out",
+    "tokens": 100
+   }
+  ],
+  "privateRatePerMin": 30,
+  "spyRatePerMin": 10,
+  "fanClubPrice": 250
+ },
+ {
+  "id": "r10",
+  "slug": "demo-room-10",
+  "performerId": "p10",
+  "title": "Demo room 10",
+  "isLive": true,
+  "viewers": 490,
+  "language": "Spanish",
+  "isNew": true,
+  "tags": [
+   "late",
+   "chat"
+  ],
+  "tipGoal": {
+   "label": "Demo goal",
+   "target": 1000,
+   "current": 100
+  },
+  "tipMenu": [
+   {
+    "label": "Say hello",
+    "tokens": 10
+   },
+   {
+    "label": "Song request",
+    "tokens": 50
+   },
+   {
+    "label": "Shout-out",
+    "tokens": 100
+   }
+  ],
+  "privateRatePerMin": 40,
+  "spyRatePerMin": 10,
+  "fanClubPrice": 150
+ },
+ {
+  "id": "r11",
+  "slug": "demo-room-11",
+  "performerId": "p11",
+  "title": "Demo room 11",
+  "isLive": true,
+  "viewers": 627,
+  "language": "German",
+  "isNew": false,
+  "tags": [
+   "weekend",
+   "music"
+  ],
+  "tipGoal": {
+   "label": "Demo goal",
+   "target": 1000,
+   "current": 190
+  },
+  "tipMenu": [
+   {
+    "label": "Say hello",
+    "tokens": 10
+   },
+   {
+    "label": "Song request",
+    "tokens": 50
+   },
+   {
+    "label": "Shout-out",
+    "tokens": 100
+   }
+  ],
+  "privateRatePerMin": 50,
+  "spyRatePerMin": 10,
+  "fanClubPrice": 200
+ },
+ {
+  "id": "r12",
+  "slug": "demo-room-12",
+  "performerId": "p12",
+  "title": "Demo room 12",
+  "isLive": false,
+  "viewers": 764,
+  "language": "French",
+  "isNew": false,
+  "tags": [
+   "chat",
+   "new"
+  ],
+  "tipGoal": {
+   "label": "Demo goal",
+   "target": 1000,
+   "current": 280
+  },
+  "tipMenu": [
+   {
+    "label": "Say hello",
+    "tokens": 10
+   },
+   {
+    "label": "Song request",
+    "tokens": 50
+   },
+   {
+    "label": "Shout-out",
+    "tokens": 100
+   }
+  ],
+  "privateRatePerMin": 30,
+  "spyRatePerMin": 10,
+  "fanClubPrice": 250
+ }
+]

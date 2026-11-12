@@ -1,0 +1,25 @@
+[
+  {
+    "slug": "demo-series-01",
+    "name": "Demo series 01",
+    "performerId": "p01",
+    "bundleId": "b1",
+    "episodes": [
+      { "n": 1, "title": "Episode 1", "videoId": "v001", "releaseAt": "2026-10-29T20:00:00Z" },
+      { "n": 2, "title": "Episode 2", "videoId": "v013", "releaseAt": "2026-11-05T20:00:00Z" },
+      { "n": 3, "title": "Episode 3", "videoId": "v025", "releaseAt": "2026-11-19T20:00:00Z" },
+      { "n": 4, "title": "Episode 4", "videoId": "v037", "releaseAt": "2026-11-26T20:00:00Z" }
+    ]
+  },
+  {
+    "slug": "demo-series-02",
+    "name": "Demo series 02",
+    "performerId": "p02",
+    "bundleId": null,
+    "episodes": [
+      { "n": 1, "title": "Episode 1", "videoId": "v002", "releaseAt": "2026-11-07T20:00:00Z" },
+      { "n": 2, "title": "Episode 2", "videoId": "v014", "releaseAt": "2026-11-21T20:00:00Z" },
+      { "n": 3, "title": "Episode 3", "videoId": "v026", "releaseAt": "2026-12-05T20:00:00Z" }
+    ]
+  }
+]

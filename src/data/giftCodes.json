@@ -1,0 +1,14 @@
+[
+ {
+  "code": "DEMO-TOKENS-100",
+  "tokens": 100
+ },
+ {
+  "code": "DEMO-TOKENS-500",
+  "tokens": 500
+ },
+ {
+  "code": "DEMO-PREMIUM-30",
+  "plan": "monthly"
+ }
+]

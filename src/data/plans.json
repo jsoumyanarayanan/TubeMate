@@ -1,0 +1,47 @@
+[
+ {
+  "id": "free",
+  "name": "Free",
+  "priceUsd": 0,
+  "period": "",
+  "days": null,
+  "bonusTokens": 0,
+  "note": ""
+ },
+ {
+  "id": "monthly",
+  "name": "Monthly",
+  "priceUsd": 14.99,
+  "period": "per month",
+  "days": 30,
+  "bonusTokens": 100,
+  "note": "7-day free trial"
+ },
+ {
+  "id": "plus",
+  "name": "Premium Plus",
+  "priceUsd": 24.99,
+  "period": "per month",
+  "days": 30,
+  "bonusTokens": 300,
+  "note": "Adds 4K and VR sections"
+ },
+ {
+  "id": "yearly",
+  "name": "Yearly",
+  "priceUsd": 99.99,
+  "period": "per year",
+  "days": 365,
+  "bonusTokens": 1500,
+  "note": "Save 44% against monthly"
+ },
+ {
+  "id": "lifetime",
+  "name": "Lifetime",
+  "priceUsd": 299,
+  "period": "one time",
+  "days": null,
+  "bonusTokens": 3000,
+  "note": "Pay once"
+ }
+]

@@ -1,0 +1,62 @@
+{
+  "rules": { "promptGapMinutes": 10, "pushPerDay": 1, "emailsPerWeek": 2, "winBackDays": 14 },
+  "stages": { "casualVisits": 3, "regularVisits": 8, "lapsedDays": 14 },
+  "stageModules": {
+    "new": { "title": "Popular with new members", "query": { "sort": "rating" } },
+    "casual": { "title": "Trending this week", "query": { "sort": "trending", "trend": "week" } },
+    "regular": { "title": "Fresh since yesterday", "query": { "sort": "newest" } },
+    "payer": { "title": "Premium picks for members", "query": { "premium": true, "sort": "rating" } },
+    "lapsed": { "title": "New since your last visit", "query": { "sort": "newest", "date": "month" } }
+  },
+  "ladder": [
+    { "id": "account", "title": "Create a free account", "body": "Keep your history, favourites and playlists, and collect daily reward tokens.", "cta": "Sign up free", "action": "login" },
+    { "id": "tokens", "title": "Get your first tokens", "body": "Tokens pay for tips, pay-per-view videos and messages. The starter pack is the cheapest way in.", "cta": "See token packs", "action": "tokens" },
+    { "id": "premium", "title": "Try Premium free for 7 days", "body": "No ads, HD and 4K, downloads. Cancel in two clicks.", "cta": "Start free trial", "action": "premium" },
+    { "id": "fanclub", "title": "Join a fan club", "body": "Members-only posts, and cheaper calls and tips, from a performer you like.", "cta": "Browse performers", "href": "/performers" },
+    { "id": "calls", "title": "Book a one-to-one call", "body": "Audio or video, charged by the minute. See who is online now.", "cta": "See who takes calls", "href": "/calls" }
+  ],
+  "starterPack": { "tokens": 50, "bonus": 25, "priceUsd": 1.99 },
+  "offers": [
+    {
+      "id": "follow_performer", "signal": "performer_watched", "threshold": 3, "enabled": true, "endsAt": null,
+      "variants": [
+        { "id": "a", "title": "You keep coming back to {name}", "body": "Follow to see new videos first and get go-live alerts." },
+        { "id": "b", "title": "More from {name}?", "body": "Follow and new videos show up on your home page." }
+      ],
+      "cta": "Follow {name}", "action": "follow"
+    },
+    {
+      "id": "fan_club", "signal": "performer_watched_following", "threshold": 3, "enabled": true, "endsAt": null,
+      "variants": [{ "id": "a", "title": "{name} has a fan club", "body": "Members-only posts and videos, and cheaper calls and tips." }],
+      "cta": "See the fan club", "href": "/performer/{slug}"
+    },
+    {
+      "id": "premium_trial", "signal": "premium_lock", "threshold": 2, "enabled": true, "endsAt": null,
+      "variants": [
+        { "id": "a", "title": "Unlock premium videos", "body": "The Monthly plan starts with a 7-day free trial. Cancel in two clicks." },
+        { "id": "b", "title": "Two premium videos in a row", "body": "Try Premium free for 7 days and watch them all, with no ads." }
+      ],
+      "cta": "Start free trial", "action": "premium"
+    },
+    {
+      "id": "next_episode", "signal": "episode_next", "threshold": 1, "enabled": true, "endsAt": null,
+      "variants": [{ "id": "a", "title": "The next episode is out", "body": "Carry on with {name}." }],
+      "cta": "Watch the next episode", "href": "{href}"
+    },
+    {
+      "id": "series_bundle", "signal": "episode_bundle", "threshold": 1, "enabled": true, "endsAt": null,
+      "variants": [{ "id": "a", "title": "Get the series bundle", "body": "The next episode of {name} is not out yet. The bundle has more from this series at a lower price." }],
+      "cta": "See the bundle", "href": "{href}"
+    },
+    {
+      "id": "niche_calls", "signal": "niche_calls", "threshold": 6, "enabled": true, "endsAt": null,
+      "variants": [{ "id": "a", "title": "{name} takes calls", "body": "You watch {name} a lot. Audio and video calls are charged by the minute." }],
+      "cta": "See call times", "href": "{href}"
+    },
+    {
+      "id": "niche_ai", "signal": "niche_ai", "threshold": 6, "enabled": true, "endsAt": null,
+      "variants": [{ "id": "a", "title": "An AI character you may like", "body": "A fictional AI companion that matches what you have been watching." }],
+      "cta": "Meet the character", "href": "{href}"
+    }
+  ]
+}
